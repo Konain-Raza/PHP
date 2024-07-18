@@ -1,6 +1,6 @@
 # 🐘 PHP
 
-PHP (Hypertext Preprocessor) is a popular server-side scripting language used for web development. It runs on the server, not on the client's browser. PHP code is embedded in HTML, making it useful for creating dynamic web pages. It processes code on the server and sends the generated HTML to the client's browser. PHP is easy to use and can interact with databases, manage sessions, and handle form data, making it great for building interactive and data-driven websites.
+PHP (Hypertext Preprocessor) is a popular server-side scripting language used for web development. It runs on the server, not on the client's browser. When a browser sends an HTML request to the server, PHP processes the request, interacts with databases if needed, and then returns the generated HTML to the browser. PHP code is embedded in HTML, making it useful for creating dynamic web pages. It can manage sessions and handle form data, making it great for building interactive and data-driven websites.
 
 ## 🚀 Getting Started
 
